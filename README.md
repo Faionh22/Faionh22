@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 <!--
-**Faionh22/Faionh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Name:Fai Hazmi
+- Located: Abha,saudi Arabia
+- CS Student
+- College: King Khalid University
+- 🌱 I’m currently learning Frontend Development
+- 👯 I’m looking to collaborate forward to cooperating with a company to create an amazing future
 
-Here are some ideas to get you started:
+**Langues
+1. Python
+2. Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: 
+* TWITTER: https://twitter.com/faihazmi?s=09
 -->
